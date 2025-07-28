@@ -1,8 +1,8 @@
-package main 
+package main
 
 // Node types
 const (
-	BNODE_NODE = 1, // internal nodes with pointers
+	BNODE_NODE = 1 // internal nodes with pointers
 	BNODE_LEAF = 2 // leaf nodes with values
 )
 
